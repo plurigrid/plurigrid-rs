@@ -86,5 +86,4 @@ impl From<&str> for Cell {
 }
 
 fn main() {
-    println!("Plurigrid CRDT");
 }
